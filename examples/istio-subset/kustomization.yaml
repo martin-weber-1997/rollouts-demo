@@ -10,4 +10,4 @@ resources:
 - rollout.yaml
 - destinationrule.yaml
 
-namespace: rollouts-demo-istio
+namespace: istio-rollout

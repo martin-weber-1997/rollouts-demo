@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     istio-injection: enabled
-  name: rollouts-demo-istio
+  name: istio-rollout

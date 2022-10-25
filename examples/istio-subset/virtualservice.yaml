@@ -6,7 +6,7 @@ spec:
   gateways:
   - istio-rollout-gateway
   hosts:
-  - istio-rollout.rollouts-demo-istio.svc.cluster.local
+  - istio-rollout.istio-rollout.svc.cluster.local
   http:
   - name: primary
     route:

@@ -9,4 +9,4 @@ resources:
 - virtualservice.yaml
 - rollout.yaml
 
-namespace: rollouts-demo-istio
+namespace: istio-rollout
