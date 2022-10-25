@@ -6,7 +6,6 @@ spec:
   gateways:
   - istio-rollout-gateway
   hosts:
-  - istio-rollout.apps.argoproj.io
   - istio-rollout.local
   http:
   - name: primary
