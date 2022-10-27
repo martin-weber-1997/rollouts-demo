@@ -3,7 +3,6 @@ kind: Kustomization
 
 resources:
 - namespace.yaml
-- analysis.yaml
 - gateway.yaml
 - services.yaml
 - virtualservice.yaml
